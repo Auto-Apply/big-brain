@@ -2,31 +2,31 @@
 
 ## File Structure
 
-bigbrain/
-├── .gitignore
-├── .git
-├── manage.py
-├── requirements.txt
-├── bigbrain/
-│ ├── **init**.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── app/
-│ ├── **init**.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── tests.py
-│ └── views.py
+bigbrain/ </br>
+├── .gitignore </br>
+├── .git </br>
+├── manage.py </br>
+├── requirements.txt </br>
+├── bigbrain/ </br>
+│ ├── **init**.py </br>
+│ ├── asgi.py </br>
+│ ├── settings.py </br>
+│ ├── urls.py </br>
+│ └── wsgi.py </br>
+├── app/ </br>
+│ ├── **init**.py </br>
+│ ├── admin.py </br>
+│ ├── apps.py </br>
+│ ├── models.py </br>
+│ ├── tests.py </br>
+│ └── views.py </br>
 
 ## Virtualenv
 
 ### To create and run virtualenv
 
 python3 -m virtualenv env
-source ./env/Scriptse/activate
+source ./env/Scripts/activate
 
 ### When new packages are installed
 
