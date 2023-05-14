@@ -2,5 +2,7 @@
     "recommendations": [
         "SonarSource.sonarlint-vscode",
         "ms-python.black-formatter",
+        "matangover.mypy",
+        "tamasfe.even-better-toml",
     ]
 }

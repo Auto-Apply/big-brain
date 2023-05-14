@@ -1,6 +1,5 @@
 from django.http import HttpResponse
 
 
-# Test
-def index():
+def index() -> HttpResponse:
     return HttpResponse("Hello, world. You're at the polls index.")
