@@ -1,7 +1,0 @@
-{
-  "rules": {
-    "python:S1118": {
-      "indentation": "2"
-    }
-  }
-}
