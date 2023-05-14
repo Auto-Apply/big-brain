@@ -1,4 +1,4 @@
-# big-brain
+# bigbrain
 
 ## File Structure
 
