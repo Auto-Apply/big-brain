@@ -1,0 +1,20 @@
+("software" OR 
+"java" OR 
+"python" OR 
+"typescript" OR 
+"javascript" OR 
+"aws" OR 
+"ci/cd" OR 
+"ci cd" OR 
+"pipeline" OR 
+"frontend" OR 
+"front-end" OR 
+"front end" OR 
+"backend" OR 
+"back-end" OR 
+"back end" OR 
+"fullstack" OR 
+"full-stack" OR 
+"full stack") 
+NOT
+("junior")

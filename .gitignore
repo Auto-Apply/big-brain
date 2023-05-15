@@ -3,3 +3,9 @@
 db*
 __pycache__
 .mypy_cache
+env
+raw-ca-software-dev-canada-data-dumps-backup.json
+raw-ca-software-eng-canada-data-dump-backup.json
+raw-ca-software-eng-dev-usa-data-dumps-backup.json
+keyed-data.json
+cleaned-data.json
