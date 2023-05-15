@@ -1,7 +1,7 @@
 # bigbrain
 
 ## File Structure
-
+```
 bigbrain/ </br>
 ├── .gitignore </br>
 ├── .git </br>
@@ -20,18 +20,22 @@ bigbrain/ </br>
 │ ├── models.py </br>
 │ ├── tests.py </br>
 │ └── views.py </br>
+```
 
 ## Virtualenv
 
 ### To create and run virtualenv
-
+```
 python3 -m virtualenv env
 source ./env/Scripts/activate
+```
 
 ### When new packages are installed
-
+```
 pip freeze > requirements.txt
+```
 
 ### To install existing packages
-
+```
 pip install -r requirements.txt
+```
