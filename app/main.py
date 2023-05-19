@@ -1,4 +1,4 @@
-from scraper import Scraper
+from app.scraper import Scraper
 
 rando = Scraper()
 input()

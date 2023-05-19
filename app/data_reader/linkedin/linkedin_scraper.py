@@ -31,7 +31,7 @@ class linkedin_scraper(Scraper):
             + keywords
         )
 
-    def get_keywords_from_file(self, file="linkedin.query") -> str:
+    def get_keywords_from_file(self, file: str = "linkedin.query") -> str:
         try:
             path = os.path.abspath(f"../../../data/{file}")
             with open(path, "r") as f:
